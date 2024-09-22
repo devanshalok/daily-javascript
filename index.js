@@ -64,3 +64,5 @@ console.log(mul)
 
 console.log(mul[0][0]=='1') //equality (it converts the type)
 console.log(mul[0][0]==='1') //strict equality (doesnot convert the type)
+
+console.log("hello")
